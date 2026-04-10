@@ -1,4 +1,4 @@
-<h1 align="center">Khan Bahadur Sadi</h1>
+<h1 align="center">Md Khan Bahadur Sadi</h1>
 <p align="center">
   <b>Software Developer • Future Software Engineer • AI Enthusiast</b>
 </p>
@@ -95,16 +95,4 @@ Currently, I am exploring **Machine Learning and AI-driven systems**, aiming to 
 
 - 📧 Email: khanbahadursadi@gmail.com  
 - 📱 Phone: 01320634246  
-- 🌐 Website: http://www.mdkhanbahadursadi.ami.bd/  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+- 🌐 Website: http://www.mdkhanbahadursadi.ami.bd/
