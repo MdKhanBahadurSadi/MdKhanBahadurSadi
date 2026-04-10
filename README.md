@@ -1,89 +1,110 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Md Khan Bahadur Sadi</h1>
-<h3 align="center">Future AI Engineer 🤖 | Founder of ITHLAYNIT 🚀</h3>
+<h1 align="center">Khan Bahadur Sadi</h1>
+<p align="center">
+  <b>Software Developer • Future Software Engineer • AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="http://www.mdkhanbahadursadi.ami.bd/">
+    🌐 Personal Website
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Profile Summary
 
-* 🎓 3rd Year CSE Student (Graduating 2028)
-* 🚀 Founder & CEO of **ITHLAYNIT (Future Tech Company)**
-* 💡 Passionate about AI, Machine Learning & Real-World Problem Solving
-* 🌱 Currently learning **Flutter, UI/UX & Freelancing**
-* 📖 Practicing Muslim | Daily Qur'an Recitation
+I am a Software Developer and a CSE student at North Western University, Khulna.  
+My focus is on building scalable software solutions that solve real-world problems.
 
----
-
-## 🔥 Current Focus
-
-* 🤖 Building AI-based Systems
-* 🚑 Heart Attack Prediction System (Core ML Project)
-* 💧 HydroVigil & HydroBeacon (Smart Water Solutions)
-* 📱 Smart Day Planner App
-* 🌐 Dynamic Web Systems (PHP + JS)
+Currently, I am exploring **Machine Learning and AI-driven systems**, aiming to integrate these technologies into practical applications that create meaningful impact.
 
 ---
 
-## ⚡ Skills
+## 🎓 Academic Background
 
-* 💻 HTML | CSS | JavaScript
-* 🐍 Python (AI/ML)
-* 📊 Data Structures & Algorithms
-* 🎨 UI/UX Design (Modern + Animated)
-* 🌐 WordPress Freelancing (Learning Phase)
+- 🎓 BSc in Computer Science & Engineering — *Running*  
+- 🏫 North Western University, Khulna  
+
+- 📘 HSC (Science) — 2022  
+- 📘 SSC (Science) — 2020  
 
 ---
 
-## 🚀 Projects
+## ⚙️ Technical Skills
 
-* 🔹 **GhorBondhu** – Smart Housing Solution
-* 🔹 **HydroVigil** – Water Monitoring System
-* 🔹 **HydroBeacon** – Smart Alert System
-* 🔹 **NWU My Class** – University Management Tool
-* 🔹 **Heart Attack Prediction System** – AI-Based Health Tool
+### 💻 Programming
+- C (82%)
+- Java (52%)
+- Python (Learning)
+- Dart (Flutter)
+
+### 🌐 Web Development
+- HTML5 (90%)
+- CSS3 (80%)
+- JavaScript (75%)
+- Tailwind CSS (85%)
+
+### 📱 Mobile & Backend
+- Flutter (45%)
+- Express.js (30%)
+- SQL (65%)
+
+### 🛠 Tools
+- Git & GitHub  
+- VS Code / IntelliJ IDEA  
+- Linux Command Line  
+- Debugging & Testing  
+
+---
+
+## 🚀 Projects Focus
+
+- Real-world problem solving systems  
+- AI & Machine Learning integration  
+- Smart & scalable applications  
+
+---
+
+## 🌱 Current Goals
+
+- Master Machine Learning & AI  
+- Build impactful software products  
+- Transition into professional freelancing  
+- Establish a global tech brand (**ITHLAYNIT**)  
+
+---
+
+## 🧠 Philosophy
+
+> "Indeed, my prayer, my sacrifice, my living and my dying are for Allah, Lord of the worlds."
+
+- Follow Qur’an & Sunnah in all aspects of life  
+- Strive for discipline, consistency, and purpose  
+
+---
+
+## 🌍 Personal Insights
+
+- 📍 Khulna, Bangladesh  
+- ❤️ Passion for learning new technologies  
+- ⚡ Focused on meaningful, real-world impact  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: khanbahadursadi@gmail.com  
+- 📱 Phone: 01320634246  
+- 🌐 Website: http://www.mdkhanbahadursadi.ami.bd/  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn (Coming Soon)
-* 📧 Email (Add later)
-* 🌍 Portfolio (In Progress)
-
----
-
-## 🕌 Vision
-
-> Building technology that not only solves problems but also aligns with Islamic values 🤍
-
-* 🤖 AI with ethical & Islamic perspective
-* 🌍 Solve real-life problems globally
-* 🚀 Build world-class products from Bangladesh
-
----
-
-## ✨ Goals
-
-* 💼 Become a top AI Engineer
-* 🚀 Build ITHLAYNIT into a global tech company
-* 🌍 Impact millions of lives through technology
-* 🕌 Integrate Islamic values into modern AI
-
----
-
-## ⚡ Fun Fact
-
-* 🏃 Morning walks + Deep focus coding sessions
-* 📖 2 hours daily Qur'an recitation
-* 💡 Always thinking about new startup ideas
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
 
 <p align="center">
-🔥 "Dream big. Start small. Stay consistent." 🔥
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 </p>
