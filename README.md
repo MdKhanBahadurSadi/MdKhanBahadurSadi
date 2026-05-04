@@ -8,9 +8,9 @@
 
 [![Website](https://img.shields.io/badge/🌐_Personal_Website-24243e?style=for-the-badge&logoColor=white)](http://www.mdkhanbahadursadi.ami.bd/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanbahadursadi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdKhanBahadurSadi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MdKhanBahadurSadi&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
