@@ -51,52 +51,118 @@ class KhanBahadurSadi:
 
 ## ⚙️ Technical Skills
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### 📱 Mobile & Backend
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Skill Proficiency
 
-```text
-HTML5        ████████████████████░░  90%
-Tailwind CSS ████████████████████░░  85%
-C            ████████████████████░░  82%
-CSS3         ████████████████████░░  80%
-JavaScript   ██████████████████░░░░  75%
-SQL          █████████████████░░░░░  65%
-Java         █████████████░░░░░░░░░  52%
-Flutter      ███████████░░░░░░░░░░░  45%
-Express.js   ████████░░░░░░░░░░░░░░  30%
-Python       ░░░░░░ Learning...
-```
-
----
+<table>
+  <tr>
+    <td><strong>HTML5</strong></td>
+    <td width="70%"><progress value="90" max="100"></progress></td>
+    <td>90%</td>
+  </tr>
+  <tr>
+    <td><strong>Tailwind CSS</strong></td>
+    <td width="70%"><progress value="85" max="100"></progress></td>
+    <td>85%</td>
+  </tr>
+  <tr>
+    <td><strong>C</strong></td>
+    <td width="70%"><progress value="82" max="100"></progress></td>
+    <td>82%</td>
+  </tr>
+  <tr>
+    <td><strong>CSS3</strong></td>
+    <td width="70%"><progress value="80" max="100"></progress></td>
+    <td>80%</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td width="70%"><progress value="75" max="100"></progress></td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td width="70%"><progress value="65" max="100"></progress></td>
+    <td>65%</td>
+  </tr>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td width="70%"><progress value="52" max="100"></progress></td>
+    <td>52%</td>
+  </tr>
+  <tr>
+    <td><strong>Flutter</strong></td>
+    <td width="70%"><progress value="45" max="100"></progress></td>
+    <td>45%</td>
+  </tr>
+  <tr>
+    <td><strong>Express.js</strong></td>
+    <td width="70%"><progress value="30" max="100"></progress></td>
+    <td>30%</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td width="70%"><progress value="15" max="100"></progress></td>
+    <td>Learning...</td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 
