@@ -89,21 +89,28 @@ class KhanBahadurSadi:
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
-
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MdKhanBahadurSadi&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800)](https://git.io/streak-stats)
-
+  <img
+    src="https://streak-stats.demolab.com?user=MdKhanBahadurSadi&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
 </div>
-
 ---
 
 ## 🚀 Projects Focus
