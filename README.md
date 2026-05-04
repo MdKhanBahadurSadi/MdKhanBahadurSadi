@@ -92,25 +92,14 @@ class KhanBahadurSadi:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MdKhanBahadurSadi&theme=tokyonight&hide_border=true&background=0d1117&cache_seconds=1800"
-    alt="GitHub Streak"
-  />
-</div>
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=MdKhanBahadurSadi&theme=tokyonight&cache_seconds=86400" />
+</p>
 ---
 
 ## 🚀 Projects Focus
