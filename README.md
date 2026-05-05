@@ -90,17 +90,6 @@ class KhanBahadurSadi:
   <img src="https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=MdKhanBahadurSadi&theme=tokyonight&cache_seconds=86400" />
-</p>
----
 
 ## 🚀 Projects Focus
 
