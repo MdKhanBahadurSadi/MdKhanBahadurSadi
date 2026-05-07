@@ -44,7 +44,7 @@ class KhanBahadurSadi:
         self.stack      = ["Flutter", "Python", "Dart", "Cloud DB"]
         self.interests  = ["Machine Learning", "AI Systems", "Mobile Apps"]
         self.brand      = "ITHLAYNIT 🌍"
-        self.faith      = "Al-Islam — Qur'an & Sunnah 🕌"
+        self.faith      = "Al-Islam — Quran and Sunnah 🕌"
 
     def current_focus(self):
         return {
