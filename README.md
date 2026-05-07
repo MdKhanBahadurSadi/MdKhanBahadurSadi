@@ -7,10 +7,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+AI-powered+Mobile+Applications;🤖+Exploring+Machine+Learning+%26+Deep+Learning;📱+Flutter+%7C+Dart+%7C+Python+%7C+Cloud+DB;🌍+Future+Founder+of+ITHLAYNIT;✨+Driven+by+Faith%2C+Purpose+%26+Discipline)](https://git.io/typing-svg)
-
-<br/>
-
 <a href="http://www.mdkhanbahadursadi.ami.bd/">
   <img src="https://img.shields.io/badge/🌐 Portfolio-0f0c29?style=for-the-badge&logoColor=6C63FF" />
 </a>
