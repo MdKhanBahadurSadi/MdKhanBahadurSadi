@@ -136,12 +136,6 @@ class KhanBahadurSadi:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdKhanBahadurSadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=6C63FF&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKhanBahadurSadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=6C63FF"/>
 
 <br/>
 
