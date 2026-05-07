@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:2d2b8a,100:6C63FF&height=220&section=header&text=Md%20Khan%20Bahadur%20Sadi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Flutter%20%26%20ML%20Developer%20%7C%20AI-powered%20Apps%20%7C%20CSE%20%40%20NWU%20Khulna&descSize=15&descAlignY=62&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:2d2b8a,100:6C63FF&height=220&section=header&text=Md+Khan+Bahadur+Sadi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Flutter+%26+ML+Developer+%7C+AI-powered+Apps+%7C+CSE+%40+NWU+Khulna&descSize=15&descAlignY=62&animation=fadeIn)
 
 <br/>
 
@@ -205,7 +205,7 @@ class KhanBahadurSadi:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:2d2b8a,70:1a1a4e,100:0f0c29&height=130&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,40:2d2b8a,70:1a1a4e,100:0f0c29&height=130&section=footer&animation=fadeIn)
 
 **⭐ If you find my work interesting, consider giving a star!**
 
