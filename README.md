@@ -1,6 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:2d2b8a,100:6C63FF&height=220&section=header&text=Md+Khan+Bahadur+Sadi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Flutter+%26+ML+Developer+%7C+AI-powered+Apps+%7C+CSE+%40+NWU+Khulna&descSize=15&descAlignY=62&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Khan%20Bahadur%20Sadi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20CSE%20Student&descSize=16&descAlignY=60&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+software+solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%26+AI+%F0%9F%A4%96;Future+Global+Tech+Brand+%E2%80%94+ITHLAYNIT+%F0%9F%8C%8D;Driven+by+faith%2C+purpose+%26+discipline+%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <br/>
 
